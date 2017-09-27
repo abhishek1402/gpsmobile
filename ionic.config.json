@@ -2,5 +2,7 @@
   "name": "gpsmobile",
   "app_id": "a74c7db2",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
